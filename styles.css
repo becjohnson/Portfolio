@@ -127,7 +127,7 @@ p {
 
 .sub-section-alternative {
     display: flex;
-    height: 1000px;
+    height: 700px;
     flex-direction: column;
     text-align: center;
     padding: 80px;
@@ -159,7 +159,7 @@ p {
 @media only screen and (max-width: 1000px) {
     .project-container {
         display: flex;
-        flex-wrap: wrap;
+        flex-wrap: flex-end;
     }
 }
 
