@@ -6,10 +6,12 @@
 }
 
 body {
-    font-family: 'Zen Kurenaido', sans-serif;
+    font-family: 'Zen Kurenaido', sans-serif, bold;
     color: #FCFCFC;
     background-color: #9fa0a0;
     margin: 0;
+    font-family: Tahoma, arial, helvetica;
+    font-style: ital;
 }
 
 
@@ -228,6 +230,7 @@ ul {
     display: none;
     background-color: #9fa0a0;
     margin: 0px;
+    border:
 }
 
 ul.show {
