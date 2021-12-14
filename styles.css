@@ -14,7 +14,6 @@ body {
     font-style: ital;
 }
 
-
 section {
     background-color: #9fa0a0;
 }
@@ -25,8 +24,6 @@ section {
     color: #9fa0a0;
     font-size: 40px;
 }
-
-
 
 nav {
     display: flex;
@@ -236,14 +233,11 @@ ul {
 ul.show {
     display: block;
 }
-
 nav {
     align-items: flex-start;
     flex-direction: column-reverse;
     background-color: #616161;
-    
 }
-
 .logo {
     display: none;
 }
